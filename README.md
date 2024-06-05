@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there! 👋 
+My name Himanshu, <br>
+I am a full time CS and Cyber Security student by day, and a freelance video editor, and a night owl coder 🦉. <br>
+_(Fun fact: Owls are far sighted, they can't see the things near them clearly 🤯)_
 
-<!--
-**HimanshuKumarSah/HimanshuKumarSah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My skills include:
+- HTML, CSS
+- Python
+- JAVA (learning currently)
+- Linux (experience with Ubuntu and Kali Linux)
+- Fusion 360
+- Figma
+- and Video editing!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+To see some of the best projects, _scroll down ⬇️_
