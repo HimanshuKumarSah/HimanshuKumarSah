@@ -12,4 +12,7 @@ My skills include:
 - Figma
 - and Video editing!
 
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
 To see some of my best projects, _scroll down ⬇️_
