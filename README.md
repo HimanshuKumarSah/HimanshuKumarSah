@@ -17,4 +17,4 @@ My skills include:
 [![ISC2 Candidate](https://images.credly.com/size/80x80/images/9180921d-4a13-429e-9357-6f9706a554f0/image.png)](https://www.credly.com/badges/52232c85-5b18-4ee1-a39f-84a86745289d)
 <!--END_SECTION:badges-->
 
-To see some of my best projects, _scroll down ⬇️_
+Some of my best projects ⬇️
